@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Kontakt-Speicher</string>
+  <string name="call_log_provider_label">Anruf-Protokoll</string>
+  <string name="create_contact">Neuer Kontakt</string>
+  <string name="debug_dump_database_message">Sie sind dabei, 1.) eine Kopie Ihrer Datenbank auf dem lokalen Speicher zu erstellen, welche alle Kontakt-Informationen und Anruf-Protokolle enthält und 2.), diese per E-Mail zu versenden. Denken Sie daran, die Kopie zu löschen, sobald Sie die Kopie erfolgreich von Ihrem Gerät kopiert haben oder die E-Mail empfangen wurde.</string>
+  <string name="debug_dump_delete_button">Jetzt löschen</string>
+  <string name="debug_dump_email_body">Im Anhang ist meine Kontakt-Datenbank mit all meinen Kontakt-Daten - behandle sie vorsichtig.</string>
+  <string name="debug_dump_email_sender_picker">Wählen Sie ein Programm zum Versenden Ihrer Datei</string>
+  <string name="debug_dump_email_subject">Kontakt-Datenbank angehängt</string>
+  <string name="debug_dump_start_button">Start</string>
+  <string name="debug_dump_title">Kontakt-Datenbank kopieren</string>
+  <string name="default_directory">Kontakte</string>
+  <string name="edit_contact">Zu Kontakt hinzufügen</string>
+  <string name="local_invisible_directory">Andere</string>
+  <string name="pound_search_tip">Geben Sie eine Nummer hinter dem \"#\" ein, um Kontakte zu suchen</string>
+  <string name="provider_label">Kontakte</string>
+  <string name="read_write_all_voicemail_description">Erlaubt der App, alle Voicemails zu speichern und abzurufen, auf die dieses Gerät Zugriff hat.</string>
+  <string name="read_write_all_voicemail_label">Alle Voicemails abrufen</string>
+  <string name="send_sms">Nachricht senden</string>
+  <string name="sharedUserLabel">Android Standard-Apps</string>
+  <string name="third_party_delete_contact_info">\"%s\" löscht Ihre Xiaomi-Kontakte. Bitte benutzen Sie stattdessen die App \"Kontakte\" für höhere Sicherheit Ihrer Kontakte.</string>
+  <string name="upgrade_msg">Rüste Kontakt-Datenbank auf.</string>
+  <string name="upgrade_out_of_memory_notification_text">Aufrüstung durch Auswahl fertigstellen</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Aufrüstung benötigt mehr Speicher</string>
+  <string name="upgrade_out_of_memory_notification_title">Rüste Kontakt-Speicher auf</string>
+  <string name="voicemail_from_column">"Voicemail von "</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="altitude">%.1f</string>
+  <string name="altitude_title">Höhe</string>
+  <string name="altitude_unit">m</string>
+  <string name="app_label">Kompass</string>
+  <string name="calibrate_failed_no_location">Kalibrierung fehlgeschlagen: Konnte Längen- und Breitengrad nicht ermitteln</string>
+  <string name="calibrate_failed_timeout">Kalibrierung fehlgeschlagen: Server-Zeitüberschreitung</string>
+  <string name="calibrate_success">Kalibrierung vollständig</string>
+  <string name="cannot_get_location">Unbekannter Standort</string>
+  <string name="dialog_calibrat_altitude">Kalibriere Höhe über die Internetverbindung.</string>
+  <string name="dialog_title_no_network">Kein Netzwerk gefunden, bitte zu WLAN oder Mobilnetz verbinden</string>
+  <string name="direction_east">O</string>
+  <string name="direction_north">N</string>
+  <string name="direction_north_east">NO</string>
+  <string name="direction_north_west">NW</string>
+  <string name="direction_south">S</string>
+  <string name="direction_south_east">SO</string>
+  <string name="direction_south_west">SW</string>
+  <string name="direction_west">W</string>
+  <string name="getting_location">Ermittle Standort...</string>
+  <string name="guide_toast">"Es könnten Störungen durch Magnetfelder entstanden sein, bitte kalibrieren Sie den Kompass durch folgende Geste."</string>
+  <string name="latitude">Breitengrad</string>
+  <string name="location_east">%s E</string>
+  <string name="location_north">%s N</string>
+  <string name="location_south">%s S</string>
+  <string name="location_west">%s W</string>
+  <string name="longitude">Höhengrad</string>
+  <string name="menu_calibrate">Kalibrieren</string>
+  <string name="menu_calibrate_altitude">Kalibriere Höhe</string>
+  <string name="pressure">%.1f</string>
+  <string name="pressure_title">Druck</string>
+  <string name="pressure_unit">hPa</string>
+</resources>

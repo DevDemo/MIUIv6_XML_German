@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_Dateien_confirm">
+        <item quantity="other">Lösche %1$d Dateien</item>
+        <item quantity="zero">Lösche %1$d Dateien</item>
+        <item quantity="one">Lösche %1$d Datei</item>
+        <item quantity="two">Lösche %1$d Dateien</item>
+        <item quantity="few">%1$Lösche %1$d Dateien</item>
+        <item quantity="many">Lösche %1$d Dateien</item>
+    </plurals>
+    <plurals name="delete_Ordner_confirm">
+        <item quantity="other">" und %1$d Ordner?"</item>
+        <item quantity="zero">" und %1$d Ordner?"</item>
+        <item quantity="one">" und %1$d Ordner?"</item>
+        <item quantity="two">" und %1$d Ordner?"</item>
+        <item quantity="few">" und %1$d Ordner?"</item>
+        <item quantity="many">" und %1$d Ordner?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d Einträge</item>
+        <item quantity="zero">%d Einträge</item>
+        <item quantity="one">%d Eintrag</item>
+        <item quantity="two">%d Einträge</item>
+        <item quantity="few">%d Einträge</item>
+        <item quantity="many">%d Einträge</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d Dateien für Download verbleibend</item>
+        <item quantity="zero">%1$d Dateien für Download verbleibend</item>
+        <item quantity="one">%1$d Datei für Download verbleibend</item>
+        <item quantity="two">%1$d Dateien für Download verbleibend</item>
+        <item quantity="few">%1$d Dateien für Download verbleibend</item>
+        <item quantity="many">%1$d Dateien für Download verbleibend</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d Dateien für Upload verbleibend</item>
+        <item quantity="zero">%1$d Dateien für Upload verbleibend</item>
+        <item quantity="one">%1$d Datei für Upload verbleibend</item>
+        <item quantity="two">%1$d Dateien für Upload verbleibend</item>
+        <item quantity="few">%1$d Dateien für Upload verbleibend</item>
+        <item quantity="many">%1$d Dateien für Upload verbleibend</item>
+    </plurals>
+</resources>
